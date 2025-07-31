@@ -134,9 +134,3 @@ The core insight is that the user base is not a single, homogeneous group but is
 The user profiling and segmentation successfully transformed raw data into a clear, actionable marketing blueprint. By moving beyond generic campaigns and targeting specific user personas, businesses can significantly improve ad effectiveness, boost conversion rates, and maximize their return on investment. This analysis provides the foundation for a smarter, more personalized advertising strategy.
 
 ---
-
-## Conclusion
-This project demonstrates the power of **user profiling and segmentation** in optimizing ad targeting.  
-The findings provide **clear guidance** for designing **personalized** and **effective** advertising strategies.
-
----
